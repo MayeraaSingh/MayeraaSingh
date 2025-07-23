@@ -1,9 +1,7 @@
 <div align="center">
 <h1> 🌟 Mayeraa’s GitHub 🌟 </h1>
-<p></div>
 
-## 📊 GitHub Stats
-
+## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayeraaSingh&show_icons=true&theme=dark)
 
 
